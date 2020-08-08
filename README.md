@@ -1,4 +1,4 @@
-# SimplePythonTCPServerClient
+# Simple Python TCP Server Client
 Very basic Python 3 TCP server/client app with multithreading and sockets. Will be updated over time. Server.py can be exploited as of now. Goal is to get computations sent from clients to server and return data back to clients.
 
 ###### Server.py is easily exploitable as of now. Can pretty much do remote command execution on wherever the server is running.
